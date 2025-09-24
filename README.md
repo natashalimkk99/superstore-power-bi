@@ -48,7 +48,7 @@ The goal is to analyze sales, profit, customer segments, and shipping performanc
 
 ## 📬 Contact  
 👩‍💻 **Natasha Lim Kar Khee**  
-🔗 [LinkedIn Profile](www.linkedin.com/in/natashalimkarkhee)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/natashalimkarkhee)  
 📧 natasha.limkk@gmail.com 
 
 ---

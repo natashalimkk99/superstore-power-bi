@@ -29,9 +29,11 @@ The goal is to analyze sales, profit, customer segments, and shipping performanc
 - Excel / CSV (data source)  
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](images/Superstore Overview Dashboard.png)
-![Dashboard Screenshot](images/Superstore Revenue & Profitability Dashboard.png) 
-![Dashboard Screenshot](images/Superstore Delivery Reliability Dashboard.png) 
+![Dashboard Screenshot](https://github.com/natashalimkk99/superstore-power-bi/blob/main/Images/Superstore%20Overview%20Dashboard.png?raw=true)
+
+![Dashboard Screenshot](https://github.com/natashalimkk99/superstore-power-bi/blob/main/Images/Superstore%20Revenue%20%26%20Profitability%20Dashboard.png?raw=true)
+
+![Dashboard Screenshot](https://github.com/natashalimkk99/superstore-power-bi/blob/main/Images/Superstore%20Delivery%20Reliability%20Dashboard.png?raw=true)
 
 ## 🔍 Key Insights  
 - **Office Supplies** → Highest sales volume but lowest profit margins  

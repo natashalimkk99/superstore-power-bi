@@ -1,4 +1,4 @@
-# 🛒 Superstore Sales Analysis – Power BI Capstone Project  
+# 🛒 Superstore Dashboard Analysis – Power BI Capstone Project  
 
 ## 📌 Project Overview  
 This repository contains my **Power BI Capstone Project** built using the **Superstore dataset**.  
@@ -6,7 +6,7 @@ The goal is to analyze sales, profit, customer segments, and shipping performanc
 
 ## 🎯 Objectives  
 - Explore sales and profit trends across time, cities, and product categories  
-- Highlight how are profit margins and shipping performance changing over time
+- Highlight how are profit margins and shipping performance are changing over time
 - Measure delivery performance across shipping modes  
 - Provide decision-makers with data-driven insights through interactive visuals  
 
@@ -29,7 +29,9 @@ The goal is to analyze sales, profit, customer segments, and shipping performanc
 - Excel / CSV (data source)  
 
 ## 📸 Dashboard Preview
-*(Add a screenshot here: `![Dashboard Screenshot](download/Superstore Overview Dashboard.png)`)*  
+![Dashboard Screenshot](images/Superstore Overview Dashboard.png)
+![Dashboard Screenshot](images/Superstore Revenue & Profitability Dashboard.png) 
+![Dashboard Screenshot](images/Superstore Delivery Reliability Dashboard.png) 
 
 ## 🔍 Key Insights  
 - **Office Supplies** → Highest sales volume but lowest profit margins  
